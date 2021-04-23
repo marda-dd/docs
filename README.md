@@ -38,4 +38,8 @@ Proposed timeline (12 months): Six months for Activity 1 (Pilot study), with two
 - A Working Group Note, published on the MaRDA Alliance website,12 months after commencement of the working group, as outlined in the Work Plan.
 - Recorded webinars at approx. 6 and 12 months – the latter linked to the published Note, wherein the working group presents to MaRDA members in order to answer questions and encourage wider adoption of the group’s recommendations by the community.
 
+## Other Working Group Members
+
+There are currently ten (10) other working group members. They are not listed here to respect privacy. If you are a working group member and wish to have your name listed here, let Donny know.
+
 <a name="fn1">1</a>: Terminology references the [W3C Process](https://www.w3.org/2004/02/Process-20040205/tr.html). While the produced Working Group Note may later advance in maturity level towards e.g. a Candidate Recommendation, the scope of this working group is to produce a demonstrative technical report.
