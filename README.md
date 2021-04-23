@@ -2,6 +2,12 @@
 
 The following proposal was approved by the MaRDA Council on 2021-04-15. The effective start date is 2021-05-01.
 
+## Leads
+
+- Donny Winston, Polyneme LLC
+- June Lau, NIST
+- Ken Kroenlein, Citrine Informatics
+
 ## Motivation
 
 Shared datasets often have column/field names that are ambiguous in their meaning, or contain identical/related concepts with different names, hindering reuse. For example in electron microscopy, "high-tension" and "acceleration voltage" are used interchangeably (identical concepts, different names). However, "magnification" and "field-of-view" are not the same thing, but are closely related (domain experts know that dividing the field-of-view by pixel size will return the magnification value). This ambiguity happens regardless of the method of sharing -- via files, web pages, or APIs. The traditional solution for this is to provide documentation.
